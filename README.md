@@ -39,4 +39,4 @@ In summary, looking at the results above, it can be determined that refactoring 
 
 In the above example, it may not be necessary to refactor the code if Steve was perfectly happy with the amount of time the initial macro had taken. To a developers eye, .72 miliseconds is a long time for a macro to run because it could be considered inefficient. In a laymans understanding, however, it is possible that the refactor/change to the functionality of the script would go unnoticed by anyone other than the developer. That's not to say it would still not be beneficial in its efficiency, but that it is possible the work may be looked over entirely if it isn't what the client had requested.
 
-##Spreadsheet for this project can be found [Here](https://github.com/clondon0792/Stock-Analysis/blob/main/VBA_Challenge.xlsm)
+## Spreadsheet for this project can be found [Here](https://github.com/clondon0792/Stock-Analysis/blob/main/VBA_Challenge.xlsm)
